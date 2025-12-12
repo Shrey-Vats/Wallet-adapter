@@ -8,4 +8,5 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
+  base: "/wallet-adapter/"
 })
